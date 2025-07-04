@@ -52,3 +52,9 @@ Check for drugs on the shelf, if it is there, update on hands, release from OOS.
 - Reminder: check RXI for pending shipments from secondary supplier
 
 Lastly check MSC, but leave controls to the pharmacist. File invoices :)
+
+## Common Drug Subsitutions:
+- Junel Fe 1/20 -> Blisovi Fe 1/20
+- Norethindrone 5mg -> Gallifrey
+- Jintelli - Noretindron Aceteate and Ethyinyl Estradiol 1mg / 5mg
+- 
