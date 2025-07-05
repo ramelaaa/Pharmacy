@@ -11,3 +11,6 @@
  - Manufacturer stock packages greater than 1 year past expiration
  - Items blocked from salvage return (Blocked pop-up message received when trying to return items to a salvage claim)
  - Patient return/quality event
+
+
+For any item that cannot be added to a Salvage claim or is no longer in the system, the item must be added to a hazardous claim, with a printed out log. The item must be logged down with as much information as possible.
